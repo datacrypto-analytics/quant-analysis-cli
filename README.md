@@ -2,7 +2,7 @@
 Quantitative analysis CLI for Forex and Cryptocurrencies.
 
 ------ 
- <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">Descrição/Description </a></h3>
+ <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.com/">Descrição/Description </a></h3>
 
 
 Algoritmos com aprendizado de máquina para o mercado <b>Forex</b> e de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
