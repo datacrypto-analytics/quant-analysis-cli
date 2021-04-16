@@ -13,8 +13,6 @@ import urllib, os
 from time import sleep 
 from matplotlib import pyplot as plt
 from tqdm import tqdm
-
-
 import pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("DataCrypto Analytics")
