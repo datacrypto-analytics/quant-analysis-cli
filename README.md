@@ -5,6 +5,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/datacrypto-analytics/quant-analysis-cli?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/datacrypto-analytics/quant-analysis-cli?style=flat-square)
 
+
 Quantitative analysis CLI for Forex and Cryptocurrencies.
 
 ------ 
