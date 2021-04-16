@@ -60,7 +60,7 @@ Criar API KEY <b> <a href = "https://www.alphavantage.co/support/#api-key"> alph
 
 
 
-<pre>(base) <font color="#2CB02C"><b>[felipe@datacrypto-analytics</b></font><font color="#FFFFFF"><b> crypto-analysis-cli</b></font><font color="#2CB02C"><b>]$</b></font> python forex-rl-v0.1-PT.py 
+<pre>(base) <font color="#2CB02C"><b>[felipe@datacrypto-analytics</b></font><font color="#FFFFFF"><b> quant-analysis-cli</b></font><font color="#2CB02C"><b>]$</b></font> python forex-rl-v0.2-PT.py 
  ____        _         ____                  _        
 |  _ \  __ _| |_ __ _ / ___|_ __ _   _ _ __ | |_ ___  
 | | | |/ _` | __/ _` | |   | &apos;__| | | | &apos;_ \| __/ _ \ 
@@ -75,7 +75,7 @@ Criar API KEY <b> <a href = "https://www.alphavantage.co/support/#api-key"> alph
                        |___/                
 
  | Algoritmo: forex-rl 
- | Versão: v0.1-PT 
+ | Versão: v0.2-PT 
 
  | Twitter @DataCryptoML 
  | Github @datacrypto-analytics 
@@ -83,16 +83,16 @@ Criar API KEY <b> <a href = "https://www.alphavantage.co/support/#api-key"> alph
  
 Digite o par Forex listada na ALPHA VANTAGE: USDJPY
 O par Forex informada foi: USDJPY
-DataCrypto Analytics recuperando dados: 291kB [00:05, 55.5kB/s] 
-DataCrypto Analytics preparando dados: 2326it [00:23, 98.23it/s]
-DataCrypto Analytics preparando dados: 100%|████████████████████████████████████████████████████████| 8/8 [00:00&lt;00:00, 50.26it/s]
+DataCrypto Analytics recuperando dados: 291kB [00:05, 50.3kB/s] 
+DataCrypto Analytics preparando dados: 2326it [00:23, 98.37it/s]
+DataCrypto Analytics preparando dados: 100%|████████████████████████████████████████████████████████| 8/8 [00:00&lt;00:00, 57.84it/s]
 ________________________________________________________________________________
 
  Preço de fechamento:  108.725
 ________________________________________________________________________________
 ________________________________Resultados______________________________________
 
- Coefficients:  [[0.99857138]]
+ Coefficients:  [[0.99857121]]
 ________________________________________________________________________________
 
  Mean squared error (MSE): 0.40
@@ -101,7 +101,7 @@ ________________________________________________________________________________
  Score de variância (próximo de 1.0 bom &gt; ruim): 1.00
 ________________________________________________________________________________
 
- Média previsões: 105.57990439999998
+ Média previsões: 105.5798954
 ________________________________________________________________________________
 </pre>
 
