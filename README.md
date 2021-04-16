@@ -15,7 +15,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 - Note that on the website we have the <b> <a href = "https://datacryptoanalytics.com/analytics/predictive"> Predictive Analytics</a> </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
 
 -----
-## Download
+## Download Linux
 
 `~$ git clone https://github.com/datacrypto-analytics/quant-analysis-cli.git`
 
