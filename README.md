@@ -20,7 +20,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 `~$ git clone https://github.com/datacrypto-analytics/quant-analysis-cli.git`
 
 
-`~$ cd crypto-analysis-cli`
+`~$ cd quant-analysis-cli`
 
 -----
 
