@@ -82,7 +82,7 @@ Criar API KEY <b> <a href = "https://www.alphavantage.co/support/#api-key"> alph
  | https://datacryptoanalytics.com/ 
  
 Digite o par Forex listada na ALPHA VANTAGE: USDJPY
-O par de criptomoeda informada foi: USDJPY
+O par Forex informada foi: USDJPY
 DataCrypto Analytics recuperando dados: 291kB [00:05, 55.5kB/s] 
 DataCrypto Analytics preparando dados: 2326it [00:23, 98.23it/s]
 DataCrypto Analytics preparando dados: 100%|████████████████████████████████████████████████████████| 8/8 [00:00&lt;00:00, 50.26it/s]
