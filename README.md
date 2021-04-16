@@ -1,5 +1,21 @@
-# quant-analysis-cli
-Quantitative analysis cli for Forex and Cryptocurrencies.
+# Quant Analysis CLI
+Quantitative analysis CLI for Forex and Cryptocurrencies.
+
+------ 
+ <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">Descrição/Description </a></h3>
+
+
+Algoritmos com aprendizado de máquina para o mercado <b>Forex</b> e de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
+
+- Observe que no site temos a página <b> <a href = "https://datacryptoanalytics.com/analytics/predictive"> Análise Preditiva</a></b>, está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
+
+------
+Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <b>Forex</b> market. Developed with neural network and decision tree that analyzes the possible movements of the market.
+
+- Note that on the website we have the <b> <a href = "https://datacryptoanalytics.com/analytics/predictive"> Predictive Analytics</a> </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
+
+
+
 <pre>(base) <font color="#2CB02C"><b>[felipe@datacrypto-analytics</b></font><font color="#FFFFFF"><b> crypto-analysis-cli</b></font><font color="#2CB02C"><b>]$</b></font> python forex-rl-v0.1-PT.py 
  ____        _         ____                  _        
 |  _ \  __ _| |_ __ _ / ___|_ __ _   _ _ __ | |_ ___  
