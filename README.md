@@ -14,6 +14,37 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 
 - Note that on the website we have the <b> <a href = "https://datacryptoanalytics.com/analytics/predictive"> Predictive Analytics</a> </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
 
+-----
+## Download
+
+`~$ git clone https://github.com/datacrypto-analytics/quant-analysis-cli.git`
+
+
+`~$ cd crypto-analysis-cli`
+
+-----
+
+## Instalar dependências necessárias/Install required dependencies 
+
+
+- Instalar Requeriments.txt
+
+`~$ pip install -r requirements.txt`
+
+-----
+
+## Iniciar algoritmo/Run algorithms
+
+
+`~$ python forex-rl-v0.1-PT.py`
+
+`~$ python regressao-linear-v0.3-2-PT.py`
+
+`~$ python forex-rl-intraday-v0.1-beta-PT.py`
+
+
+-----
+
 
 
 <pre>(base) <font color="#2CB02C"><b>[felipe@datacrypto-analytics</b></font><font color="#FFFFFF"><b> crypto-analysis-cli</b></font><font color="#2CB02C"><b>]$</b></font> python forex-rl-v0.1-PT.py 
