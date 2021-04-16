@@ -40,6 +40,12 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 
 -----
 
+## API KEY
+
+Criar API KEY <b> <a href = "https://www.alphavantage.co/support/#api-key"> alphavantage.co/api-key </a> </b>
+
+-----
+
 ## Iniciar algoritmo/Run algorithms
 
 
