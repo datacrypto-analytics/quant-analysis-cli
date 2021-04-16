@@ -1,4 +1,10 @@
 # Quant Analysis CLI
+
+![GitHub](https://img.shields.io/github/license/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+
 Quantitative analysis CLI for Forex and Cryptocurrencies.
 
 ------ 
@@ -91,3 +97,21 @@ ________________________________________________________________________________
  Média previsões: 105.57990439999998
 ________________________________________________________________________________
 </pre>
+
+
+![](img/USDJPY.png)
+
+-----
+
+![](img/EURUSD.png)
+
+## Donate
+
+<img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
+
+
+-----
+
+## Aviso Legal: 
+
+*As informações nestas páginas contêm declarações prospectivas que envolvem riscos e incertezas. Os mercados e instrumentos perfilados nesta página são apenas para fins informativos e não devem, de forma alguma, ser visto como uma recomendação de compra ou venda desses ativos. Você deve fazer sua própria pesquisa completa antes de tomar qualquer decisão de investimento. DataCrypto Analytics não garante de forma alguma que esta informação esteja livre de erros ou distorções materiais. Também não garante que essas informações sejam oportunas. Investir em mercados abertos envolve muitos riscos, incluindo a perda total ou parcial de seu investimento, bem como estresse emocional. Todos os riscos, perdas e custos associados ao investimento, incluindo a perda total do principal, são de sua responsabilidade.*
