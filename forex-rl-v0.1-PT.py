@@ -54,7 +54,7 @@ df.head
 df.shape
 df.index 
 df.columns
-df.describe()
+df.describe
 #print(df.shape)
 #print(df.columns)
 #print(df.describe)
