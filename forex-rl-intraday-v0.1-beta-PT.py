@@ -33,7 +33,7 @@ moeda_cotacao = input('\nDigite a moeda cotção listada na ALPHA VANTAGE (Ex: E
 ###############################################################################################################
 #========   Cria URL da API Binance
 ###############################################################################################################
-apikey = 'XLRRSVFGQJLI7S4W'
+apikey = 'demo'
 root_url = 'https://www.alphavantage.co/query?function=FX_INTRADAY'
 moeda_base = criptomoeda
 
