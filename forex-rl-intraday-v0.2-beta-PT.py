@@ -33,7 +33,7 @@ moeda_cotacao = input('\nDigite a moeda cotação listada na ALPHA VANTAGE (Ex: 
 ###############################################################################################################
 #========   Cria URL da API ALPHAVANTAGE
 ###############################################################################################################
-apikey = 'XLRRSVFGQJLI7S4W'
+apikey = 'demo'
 root_url = 'https://www.alphavantage.co/query?function=FX_INTRADAY'
 moeda_base = criptomoeda
 par = moeda_base + moeda_cotacao
