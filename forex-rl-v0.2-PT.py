@@ -33,7 +33,7 @@ print('O par Forex informada foi: %s' %(criptomoeda))
 #######################################################################################
 #========   Cria URL da API Binance
 #######################################################################################
-apikey = 'XLRRSVFGQJLI7S4W'
+apikey = 'demo'
 root_url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED'
 symbol = criptomoeda
 url = root_url + '&symbol=' + symbol + "&outputsize=full&apikey="+apikey+ '&datatype=csv'
