@@ -1,4 +1,11 @@
 # Quant Analysis CLI
+
+![GitHub](https://img.shields.io/github/license/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/datacrypto-analytics/quant-analysis-cli?style=flat-square)
+
+
 Quantitative analysis CLI for Forex and Cryptocurrencies.
 
 ------ 
@@ -33,6 +40,12 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 
 -----
 
+## API KEY
+
+Criar API KEY <b> <a href = "https://www.alphavantage.co/support/#api-key"> alphavantage.co/api-key </a> </b>
+
+-----
+
 ## Iniciar algoritmo/Run algorithms
 
 
@@ -47,7 +60,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 
 
 
-<pre>(base) <font color="#2CB02C"><b>[felipe@datacrypto-analytics</b></font><font color="#FFFFFF"><b> crypto-analysis-cli</b></font><font color="#2CB02C"><b>]$</b></font> python forex-rl-v0.1-PT.py 
+<pre>(base) <font color="#2CB02C"><b>[felipe@datacrypto-analytics</b></font><font color="#FFFFFF"><b> quant-analysis-cli</b></font><font color="#2CB02C"><b>]$</b></font> python forex-rl-v0.2-PT.py 
  ____        _         ____                  _        
 |  _ \  __ _| |_ __ _ / ___|_ __ _   _ _ __ | |_ ___  
 | | | |/ _` | __/ _` | |   | &apos;__| | | | &apos;_ \| __/ _ \ 
@@ -62,24 +75,24 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
                        |___/                
 
  | Algoritmo: forex-rl 
- | Versão: v0.1-PT 
+ | Versão: v0.2-PT 
 
  | Twitter @DataCryptoML 
  | Github @datacrypto-analytics 
  | https://datacryptoanalytics.com/ 
  
 Digite o par Forex listada na ALPHA VANTAGE: USDJPY
-O par de criptomoeda informada foi: USDJPY
-DataCrypto Analytics recuperando dados: 291kB [00:05, 55.5kB/s] 
-DataCrypto Analytics preparando dados: 2326it [00:23, 98.23it/s]
-DataCrypto Analytics preparando dados: 100%|████████████████████████████████████████████████████████| 8/8 [00:00&lt;00:00, 50.26it/s]
+O par Forex informada foi: USDJPY
+DataCrypto Analytics recuperando dados: 291kB [00:05, 50.3kB/s] 
+DataCrypto Analytics preparando dados: 2326it [00:23, 98.37it/s]
+DataCrypto Analytics preparando dados: 100%|████████████████████████████████████████████████████████| 8/8 [00:00&lt;00:00, 57.84it/s]
 ________________________________________________________________________________
 
  Preço de fechamento:  108.725
 ________________________________________________________________________________
 ________________________________Resultados______________________________________
 
- Coefficients:  [[0.99857138]]
+ Coefficients:  [[0.99857121]]
 ________________________________________________________________________________
 
  Mean squared error (MSE): 0.40
@@ -88,6 +101,24 @@ ________________________________________________________________________________
  Score de variância (próximo de 1.0 bom &gt; ruim): 1.00
 ________________________________________________________________________________
 
- Média previsões: 105.57990439999998
+ Média previsões: 105.5798954
 ________________________________________________________________________________
 </pre>
+
+
+![](img/USDJPY.png)
+
+-----
+
+![](img/EURUSD.png)
+
+## Donate
+
+<img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
+
+
+-----
+
+## Aviso Legal: 
+
+*As informações nestas páginas contêm declarações prospectivas que envolvem riscos e incertezas. Os mercados e instrumentos perfilados nesta página são apenas para fins informativos e não devem, de forma alguma, ser visto como uma recomendação de compra ou venda desses ativos. Você deve fazer sua própria pesquisa completa antes de tomar qualquer decisão de investimento. DataCrypto Analytics não garante de forma alguma que esta informação esteja livre de erros ou distorções materiais. Também não garante que essas informações sejam oportunas. Investir em mercados abertos envolve muitos riscos, incluindo a perda total ou parcial de seu investimento, bem como estresse emocional. Todos os riscos, perdas e custos associados ao investimento, incluindo a perda total do principal, são de sua responsabilidade.*
