@@ -29,6 +29,8 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> and <
 
 `~$ cd quant-analysis-cli`
 
+ <h3> <a href="https://www.anaconda.com/products/individual#Downloads">Download Anaconda</a></h3>
+ 
 -----
 
 ## Instalar dependências necessárias/Install required dependencies 
